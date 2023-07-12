@@ -5,7 +5,7 @@ Done as a part of CS220 - Computer Organisation in the Winter 2023 semester (202
  - Single-cycle execution of instructions
  - Implemented arithmetic, logical, conditional branch and unconditional jump instructions. To my knowledge, the instruction set is Turing-complete.
  - Harvard Architecture - instructions and data were hard-coded into the memory, as in veda.v.
- - Done individually. Thanks to my partner for moral support, and apologies for not being sincere in the labs in the first half.
+ - Done in a group of two.
  - Thanks to Professor Urbi Chatterjee for explaining most of the working in a lecture.
 
 For details, please refer to the Implementation report.
